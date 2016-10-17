@@ -1,5 +1,5 @@
 #! /usr/bin/python3
-"""
+
 # Here for person A
 
 import requests
@@ -21,8 +21,11 @@ def getlist():
 
 	return News
 
-"""
+<<<<<<< HEAD
 
+
+
+>>>>>>> 936715b9269ab0dae56d50984d5ff2d617ccdb48
 # Here for person B
 
 def getcontent( url ):
@@ -36,7 +39,7 @@ def getcontent( url ):
 		if not s.strip() == "":
 			print( s )
 
-"""
+
 # Here for person A again
 
 if __name__ == '__main__':
