@@ -20,7 +20,7 @@ def getlist():
 		News.append( [ t.text, t.attrib[ 'href' ] ] )
 
 	return News
-
+"""
 # Here for person B
 
 def getcontent( url ):
@@ -33,7 +33,8 @@ def getcontent( url ):
 	for s in string.split( '\n' ):
 		if not s.strip() == "":
 			print( s )
-
+"""
+"""
 # Here for person A again
 
 if __name__ == '__main__':
@@ -55,4 +56,4 @@ if __name__ == '__main__':
 			print( 'Link is not in this domain' )
 	else:
 		print( 'Please input a valid number !' )
-12
+"""
