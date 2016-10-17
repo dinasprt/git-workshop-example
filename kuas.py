@@ -1,5 +1,5 @@
 #! /usr/bin/python3
-"""
+
 # Here for person A
 
 import requests
@@ -21,7 +21,7 @@ def getlist():
 
 	return News
 
-"""
+
 """
 # Here for person B
 
