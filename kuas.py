@@ -21,11 +21,7 @@ def getlist():
 
 	return News
 
-<<<<<<< HEAD
 
-
-
->>>>>>> 936715b9269ab0dae56d50984d5ff2d617ccdb48
 # Here for person B
 
 def getcontent( url ):
